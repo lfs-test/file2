@@ -1,8 +1,8 @@
 {
   "name": "file csv test",
   "resources": {
-    "file": "file.csv"
+    "file": "file22.csv"
   },
-  "revision": 0,
+  "revision": 1,
   "revisionId": "0c34ea95-46fa-4d08-aaca-853ba598a3ab"
 }
