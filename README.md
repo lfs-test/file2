@@ -1,2 +1,4 @@
-# file2
-file test save api
+# ¯\_(ツ)_/¯
+'
+                      'This is a datapackage repository created by '
+                      '[`metastore-lib-js`](https://github.com/datopian/metastore-lib-js)'
